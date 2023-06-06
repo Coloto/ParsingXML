@@ -1,2 +1,2 @@
 # ParsingXML
-Hola
+Ejercicio donde parseamos y sacamos datos de un XML.
